@@ -1,0 +1,9 @@
+{
+	"name": "demokishordatafactory100",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7704bff9-6ece-4e9a-b3f8-ecde1c504aeb",
+		"tenantId": "8024dd87-b185-4a52-860f-51230b540371"
+	}
+}
